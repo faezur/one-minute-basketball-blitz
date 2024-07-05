@@ -11,7 +11,7 @@ One-Minute Madness: Immerse yourself in the adrenaline-pumping action of a quick
 Strategic Decision-Making: With only one minute on the clock, every decision matters. Choose between risky long-range shots for higher points or opt for a safer approach with close-range baskets. Adapt your strategy on the fly to maximize your scoring potential.
 
 ## Gameplay Video
-Watch Gameplay Video (https://youtu.be/a5NBnj-9o8w)
+[Watch Gameplay Video](https://youtu.be/a5NBnj-9o8w)
 
 ## Technologies Used
 Game Engine: Unity
